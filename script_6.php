@@ -1,0 +1,5 @@
+<?php
+echo"<b>HELLO ATMIYA UNIVERSITY</b><br>
+<i>HELLO ATMIYA UNIVERSITY</i><br>
+<h1>HELLO ATMIYA UNIVERSITY</h1>";
+?>

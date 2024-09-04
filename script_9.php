@@ -1,0 +1,9 @@
+<?php
+$name="john";
+$age="30";
+$city="rajkot";
+echo"hello<br>atmiya<br>university<br>
+    $name<br>
+    $age<br>
+    $city";
+?>
